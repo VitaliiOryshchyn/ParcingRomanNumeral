@@ -1,0 +1,16 @@
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.exe
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.deps.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.runtimeconfig.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.runtimeconfig.dev.json
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ref\ParcingRomanNumeral.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\bin\Debug\net5.0\ParcingRomanNumeral.pdb
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.csprojAssemblyReference.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.AssemblyInfoInputs.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.AssemblyInfo.cs
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ref\ParcingRomanNumeral.dll
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.pdb
+C:\Users\utahs\Desktop\Навчання\С#Projects\ParcingRomanNumeral\ParcingRomanNumeral\obj\Debug\net5.0\ParcingRomanNumeral.genruntimeconfig.cache
